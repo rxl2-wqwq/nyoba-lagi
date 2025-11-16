@@ -1,3 +1,4 @@
+```
 return {
   -- LSP for C/C++
   {
@@ -66,3 +67,4 @@ return {
     end,
   },
 }
+```
